@@ -90,19 +90,6 @@ Collaborated with frontend learners to:
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-alx-project-nexus/
-├── README.md          # Project documentation
-├── system_design.md   # System architecture & flow
-├── api_docs/          # Swagger / Postman files
-├── challenges/        # Key issues and resolutions
-└── best_practices.md  # Coding standards and reflections
-```
-
----
-
 ## 📌 Final Thoughts
 
 Project Nexus has been a transformative learning experience, deepening my understanding of backend architecture, teamwork, and real-world systems engineering. The collaborative spirit and challenges tackled during this program have equipped me with confidence and clarity as I continue my software engineering journey.
